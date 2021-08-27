@@ -11,8 +11,10 @@ O objetivo desse projeto é poder explorar falhas existentes no WhatsApp, deixan
 
 # Instale o BOT
 ```sh 
-> termux-setup-storage
-> pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs-lts && git clone https://github.com/davizinmaker/tdmclient/ && cd tdmclient && bash install.sh
+termux-setup-storage
+```
+```sh 
+pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs-lts && git clone https://github.com/davizinmaker/tdmclient/ && cd tdmclient && bash install.sh
 ```
 # Para iniciar
 ```sh
